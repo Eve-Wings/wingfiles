@@ -8,8 +8,12 @@
 # install dependencies
 npm install
 
+<<<<<<< Updated upstream
 # serve with hot reload at localhost:8080
 npm run dev
+=======
+为了更好的观感，可以在此处阅读该文档(https://eve-wings.github.io/Eve-Wings/guide/personal-works/%E7%A8%8B%E5%BA%8F/%E7%BE%BD%E7%BF%BC%E6%96%87%E4%BB%B6%E4%B8%AD%E5%BF%83/)
+>>>>>>> Stashed changes
 
 # build for production with minification
 npm run build
